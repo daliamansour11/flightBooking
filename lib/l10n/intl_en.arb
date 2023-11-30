@@ -1,0 +1,22 @@
+{
+  "appName":"FlightBooking",
+  "noRouteFound":"No Route Found",
+  "bookYourflight":"Book Your flight",
+  "oneway": "One way",
+  "roundtrip": "Roundtrip",
+  "multicity": "Multi-city",
+  "from":"FROM",
+  "to":"TO",
+  "departure":"DEPARTURE",
+  "adults":"ADULTS",
+  "children":"CHILDREN",
+  "econnomy":"ECONNOMY",
+  "business":"BUSINESS",
+  "firstclass":"FIRST CLASS",
+  "searchflight":"Search Flight",
+  "searchresult":"Search Result",
+  "availableflight":"Available Flight",
+  "bookflight":"Book Flight",
+  "bestvalueofferstoAsia":"Best Value Offers        to Asia!"
+
+}

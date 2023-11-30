@@ -1,0 +1,22 @@
+{
+  "appName":"حجز الرحلات",
+  "noRouteFound":"لايوجد صفحات",
+  "bookYourflight":"احجز رحلتك",
+  "oneway": "اتجاه واحد",
+  "roundtrip": "جوله",
+  "multicity": "مدن متعددة",
+  "from":"من",
+  "to":"الي",
+  "departure":"موعد الرحله",
+  "adults":"البالغين",
+  "children":"الاطفال",
+  "econnomy":"اقتصادي ",
+  "business":"رجال اعمال",
+  "firstclass":"الدرجه الاولي",
+  "searchflight":"رحله البحث",
+  "searchresult":"نتيجه البحث",
+  "availableflight":"الرحلات المتوافرة",
+  "bookflight":"حجز الرحله",
+  "bestvalueofferstoAsia":"افضل العروض القيمه للسفر لاسيا!"
+
+}
